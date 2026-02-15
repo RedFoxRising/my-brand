@@ -104,7 +104,7 @@
               {{- end -}}
             {{- end -}}
 
-            {{- $href := cond $is_external $raw ($path | relLangURL) -}}
+            {{- $href := cond $is_external $raw ($path | absLangURL) -}}
 
             {{- /* Fix active link highlighting to use the same logic */ -}}
             {{- $menu_item_url := cond $is_external $raw ($path | absLangURL) -}}
