@@ -104,10 +104,13 @@
               {{- end -}}
             {{- end -}}
 
-            {{- $href := cond $is_external $raw ($path | absLangURL) -}}
+            {{- /* Manually construct the URL instead of using absLangURL which is broken with path-based baseURLs */ -}}
+            {{- $baseURL := strings.TrimSuffix "/" site.BaseURL -}}    {{/* "https://gh.lukelittle.com/student-branding-starter" */}}
+            {{- $lang := $currentPage.Language.Lang -}}                {{/* "en" */}}
+            {{- $href := cond $is_external $raw (printf "%s/%s%s" $baseURL $lang $path) -}}
 
             {{- /* Fix active link highlighting to use the same logic */ -}}
-            {{- $menu_item_url := cond $is_external $raw ($path | absLangURL) -}}
+            {{- $menu_item_url := cond $is_external $raw (printf "%s/%s%s" $baseURL $lang $path) -}}
             {{- $page_url := $currentPage.Permalink | absLangURL -}}
 
             <li>
