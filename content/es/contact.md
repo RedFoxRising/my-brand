@@ -3,38 +3,42 @@ title: "Contacto"
 url: "/es/contact/"
 summary: "Ponte en contacto conmigo."
 ---
+title: "Contacto"
+url: "/es/contacto/"
+summary: "¡Conectemos! No dudes en escribirme para proyectos, prácticas profesionales o simplemente para charlar sobre economía y datos."
+---
 
 ## Conectemos
 
-Siempre estoy encantado de conversar sobre proyectos, oportunidades o simplemente conectar con otros estudiantes y desarrolladores.
+Siempre estoy dispuesto a charlar sobre proyectos de datos, oportunidades de consultoría o simplemente para conectar con otros estudiantes de economía y profesionales.
 
-### Mejores formas de contactarme
+### Las mejores formas de contactarme
 
-**Correo electrónico:** [your.email@example.com](mailto:your.email@example.com)
-*Ideal para: Consultas sobre proyectos, oportunidades de colaboración o preguntas detalladas*
+**Correo electrónico:** [am.guerreroa@uniandes.edu.co](mailto:am.guerreroa@uniandes.edu.co)  
+*Ideal para: Consultas sobre prácticas/empleo, oportunidades de colaboración o preguntas detalladas.*
 
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-*Ideal para: Networking profesional y mantenernos conectados*
+**LinkedIn:** [linkedin.com/in/andresmauricioguerrero](https://www.linkedin.com/in/andresmauricioguerrero/)  
+*Ideal para: Networking profesional, discusiones sobre consultoría y mantener el contacto.*
 
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)
-*Ideal para: Colaboración en código y contribuciones de código abierto*
+**GitHub:** [github.com/RedFoxRising](https://github.com/RedFoxRising)  
+*Ideal para: Revisar mi código, modelos econométricos y proyectos de análisis de datos.*
 
-### Lo que me interesa
+### Temas de mi interés
 
-- **Oportunidades de prácticas** en desarrollo de software, ciencia de datos o campos relacionados
-- **Colaboración en proyectos** con otros estudiantes o en código abierto
-- **Oportunidades de aprendizaje** como hackatones, talleres o grupos de estudio
-- **Mentoría** de desarrolladores con experiencia
-- **Conversaciones informales** sobre tecnología, trayectorias profesionales o problemas interesantes
+- **Oportunidades de práctica** en consultoría económica, análisis de datos, estrategia financiera o áreas afines.
+- **Colaboraciones en proyectos** que involucren modelado econométrico, pronóstico de precios o Python/R/STATA.
+- **Retos estratégicos** como competencias de casos de consultoría, hackathones o grupos de investigación.
+- **Mentoría** de profesionales con experiencia en finanzas, consultoría y tecnología.
+- **Charlas informales** sobre economía, estrategia de negocios, ¡o incluso futsal y deportes!
 
 ### Tiempo de respuesta
 
-Normalmente respondo en 24-48 horas. Si no recibes respuesta, ¡no dudes en enviar un seguimiento!
+Normalmente respondo en un plazo de 24 a 48 horas. Si no recibes respuesta, ¡no dudes en enviarme un mensaje de seguimiento!
 
-### Charlas con café
+### Un café para charlar
 
-Si estás en [tu ciudad/zona] o asistes a [tu universidad], siempre estoy dispuesto a tomar un café para hablar sobre proyectos, consejos profesionales o simplemente conocer gente nueva en tecnología.
+Si estás en la zona de Bogotá/La Calera o estudias en la Universidad de los Andes, siempre estoy dispuesto a tomar un café para hablar sobre proyectos, consejos profesionales o simplemente para conocer a nuevas personas trabajando en problemas interesantes.
 
 ---
 
-*Nota: Por favor sé específico en tu mensaje. Cuanto más contexto proporciones, mejor podré ayudarte o responder.*
+*Nota: Por favor, sé específico en tu mensaje. ¡Entre más contexto me des, mejor pod
