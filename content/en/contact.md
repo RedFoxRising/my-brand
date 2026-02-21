@@ -6,26 +6,26 @@ summary: "Get in touch with me."
 
 ## Let's Connect
 
-I'm always happy to chat about projects, opportunities, or just to connect with fellow students and developers.
+I'm always happy to chat about economics, data projects, consulting opportunities, or just to connect with fellow economics students and professionals.
 
 ### Best Ways to Reach Me
 
-**Email:** [your.email@example.com](mailto:your.email@example.com)  
-*Best for: Project inquiries, collaboration opportunities, or detailed questions*
+**Email:** [am.guerreroa@uniandes.edu.co](mailto:am.guerreroa@uniandes.edu.co)  
+*Best for: Internship/job inquiries, collaboration opportunities, or detailed questions.*
 
-**LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-*Best for: Professional networking and staying connected*
+**LinkedIn:** [linkedin.com/in/andresmauricioguerrero](https://www.linkedin.com/in/andresmauricioguerrero/)  
+*Best for: Professional networking, consulting discussions, and staying connected.*
 
-**GitHub:** [github.com/yourusername](https://github.com/yourusername)  
-*Best for: Code collaboration and open source contributions*
+**GitHub:** [github.com/RedFoxRising](https://github.com/RedFoxRising)  
+*Best for: Reviewing my code, econometric models, and data analysis projects.*
 
 ### What I'm Interested In
 
-- **Internship opportunities** in software development, data science, or related fields
-- **Project collaborations** with other students or on open source
-- **Learning opportunities** like hackathons, workshops, or study groups
-- **Mentorship** from experienced developers
-- **Casual conversations** about technology, career paths, or interesting problems
+- **Internship opportunities** in economic consulting, data analysis, financial strategy, or related fields.
+- **Project collaborations** involving econometric modeling, price forecasting, or Python/R/STATA.
+- **Strategic challenges** like consulting case competitions, hackathons, or research groups.
+- **Mentorship** from experienced professionals in finance, consulting, and tech.
+- **Casual conversations** about economics, business strategy, or even futsal and sports!
 
 ### Response Time
 
@@ -33,8 +33,8 @@ I typically respond within 24-48 hours. If you don't hear back, feel free to sen
 
 ### Coffee Chats
 
-If you're in [your city/area] or attending [your university], I'm always up for a coffee chat to discuss projects, career advice, or just to meet new people in tech.
+If you're in the Bogotá/La Calera area or attending Universidad de los Andes, I'm always up for a coffee chat to discuss projects, career advice, or just to meet new people working on interesting problems.
 
 ---
 
-*Note: Please be specific in your message. The more context you provide, the better I can help or respond!*
+*Note: Please be specific in your message. The more context you provide, the better I can respond!*
