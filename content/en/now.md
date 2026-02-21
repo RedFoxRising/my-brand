@@ -9,7 +9,7 @@ This is a [now page](https://nownownow.com/about), inspired by Derek Sivers. It'
 ## Current Focus (Updated February 2026)
 
 ### 🎓 Academics
-- Completing my final year of my Bachelor of Economic Science at Universidad de los Andes.
+- Completing my final semester of my Bachelor of Economic Science at Universidad de los Andes.
 - Diving deep into data and finance through my current electives: 
   - *Applied Data Science and Econometrics*
   - *Artificial Intelligence Applied to Economics*
