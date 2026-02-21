@@ -5,10 +5,10 @@
 # ⚠️ CHANGE THIS: Update to your GitHub Pages URL
 # For username.github.io repos: baseURL = "https://username.github.io/"
 # For project repos: baseURL = "https://username.github.io/repo-name/"
-baseURL = "https://gh.lukelittle.com/student-branding-starter/"
+baseURL = "https://www.mauroguerrero.com/"
 
 # ⚠️ CHANGE THIS: Update with your name
-title = "Your Name - Personal Site"
+title = "Mauricio Guerrero - Personal Site"
 
 # Don't change these unless you have a reason to
 theme = "PaperMod"
@@ -25,38 +25,37 @@ defaultContentLanguageInSubdir = true  # This fixes multilingual URL routing wit
     languageName = "English"
     weight = 1
     # ⚠️ CHANGE THIS: Update with your name
-    title = "Your Name - Personal Site"
+    title = "Mauricio Guerrero - Personal Site"
     contentDir = "content/en"
 
     [languages.en.params]
       # ⚠️ CHANGE THIS: Update with your name
-      author = "Your Name"
+      author = "Andres Mauricio Guerrero Avila"
       # ⚠️ CHANGE THIS: Update with your own description
-      description = "Student, developer, and lifelong learner sharing projects and insights."
+      description = "Andres Mauricio Guerrero Avila's website. Data analysis, econometric models, and business strategy."
 
       [languages.en.params.homeInfoParams]
         # ⚠️ CHANGE THIS: Update with your name
-        Title = "Hi, I'm Your Name 👋"
+        Title = "Hi, I'm Andres Mauricio Guerrero Avila 👋"
         # ⚠️ CHANGE THIS: Update with your own introduction
         Content = """
-I'm a computer science student passionate about building things and solving problems.
-I write about what I'm learning, share my projects, and document my journey.
+Economics student at Universidad de Los Andes focusing on quantitative analysis and entrepreneurship.
 
-**Currently:** Working on web development and exploring cloud technologies.
+**Currently:** Applying econometric analysis and programming (Python, R, STATA) to solve strategic problems.
 """
 
     # ⚠️ CHANGE THESE: Update with your own social links
     [[languages.en.params.socialIcons]]
       name = "github"
-      url = "https://github.com/yourusername"
+      url = "https://github.com/RedFoxRising"
 
     [[languages.en.params.socialIcons]]
       name = "linkedin"
-      url = "https://linkedin.com/in/yourprofile"
+      url = "https://www.linkedin.com/in/andresmauricioguerrero/"
 
     [[languages.en.params.socialIcons]]
       name = "email"
-      url = "mailto:your.email@example.com"
+      url = "mailto:am.guerreroa@uniandes.com"
 
     [[languages.en.params.socialIcons]]
       name = "rss"
@@ -101,38 +100,37 @@ I write about what I'm learning, share my projects, and document my journey.
     languageName = "Español"
     weight = 2
     # ⚠️ CHANGE THIS: Update with your name
-    title = "Tu Nombre - Sitio Personal"
+    title = "Mauricio Guerrero - Sitio Personal"
     contentDir = "content/es"
 
     [languages.es.params]
       # ⚠️ CHANGE THIS: Update with your name
-      author = "Tu Nombre"
+      author = "Andres Mauricio Guerrero Avila"
       # ⚠️ CHANGE THIS: Update with your own description
-      description = "Estudiante, desarrollador y aprendiz de por vida compartiendo proyectos y reflexiones."
+      description = "Sitio web de Andres Mauricio Guerrero Avila. Análisis de datos, modelos econométricos y estrategia de negocios. "
 
       [languages.es.params.homeInfoParams]
         # ⚠️ CHANGE THIS: Update with your name
-        Title = "Hola, soy Tu Nombre 👋"
+        Title = "Hola, Andres Mauricio Guerrero Avila 👋"
         # ⚠️ CHANGE THIS: Update with your own introduction
         Content = """
-Soy un estudiante de informática apasionado por construir cosas y resolver problemas.
-Escribo sobre lo que estoy aprendiendo, comparto mis proyectos y documento mi camino.
+Estudiante de Economía en la Universidad de los Andes con enfoque en el análisis cuantitativo y el emprendimiento.
 
-**Actualmente:** Trabajando en desarrollo web y explorando tecnologías en la nube.
+**Actualmente:** Aplicando análisis econométrico y programación (Python, R, STATA) para resolver problemas estratégicos.
 """
 
     # ⚠️ CHANGE THESE: Update with your own social links
     [[languages.es.params.socialIcons]]
       name = "github"
-      url = "https://github.com/yourusername"
+      url = "https://github.com/RedFoxRising"
 
     [[languages.es.params.socialIcons]]
       name = "linkedin"
-      url = "https://linkedin.com/in/yourprofile"
+      url = "https://www.linkedin.com/in/andresmauricioguerrero/"
 
     [[languages.es.params.socialIcons]]
       name = "email"
-      url = "mailto:your.email@example.com"
+      url = "mailto:am.guerreroa@uniandes.edu.co"
 
     [[languages.es.params.socialIcons]]
       name = "rss"
