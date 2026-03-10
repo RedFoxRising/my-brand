@@ -1,7 +1,7 @@
 ---
 title: "Task Manager Web App"
 date: 2024-01-15
-draft: false
+draft: true
 tags: ["javascript", "react", "web-development"]
 summary: "A full-stack task management application with user authentication and real-time updates."
 ---
