@@ -1,7 +1,7 @@
 ---
 title: "Macro Forecasting Challenge — Banco de Occidente"
 date: 2026-03-09
-draft: TRUE
+draft: false
 tags: ["python", "econometrics", "time-series", "finance", "colombia"]
 summary: "A full forecasting pipeline to compete in a national macroeconomic tournament: data extraction from 6 official sources, SARIMA/AR models, and walk-forward backtesting."
 ---
