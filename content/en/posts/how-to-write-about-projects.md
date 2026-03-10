@@ -1,7 +1,7 @@
 ---
 title: "How to Write About a Project (Even If It's Small)"
 date: 2024-03-15
-draft: false
+draft: true
 tags: ["career", "portfolio", "writing"]
 summary: "A practical guide to documenting your projects in a way that demonstrates skills and attracts opportunities—no matter how simple the project."
 ---
