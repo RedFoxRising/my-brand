@@ -1,7 +1,7 @@
 ---
 title: "What Makes a Strong Technical Blog Post"
 date: 2024-03-10
-draft: false
+draft: true
 tags: ["writing", "career", "learning-in-public"]
 summary: "A guide to writing technical posts that demonstrate your thinking, help others, and build your professional brand."
 ---
