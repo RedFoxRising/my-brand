@@ -1,7 +1,7 @@
 ---
 title: "Weather CLI Tool"
 date: 2024-02-20
-draft: false
+draft: true
 tags: ["python", "cli", "api"]
 summary: "A command-line tool for checking weather forecasts with a clean, colorful interface."
 ---
