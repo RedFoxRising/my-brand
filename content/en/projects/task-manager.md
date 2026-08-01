@@ -1,5 +1,6 @@
 ---
 title: "Task Manager Web App"
+translationKey: "task-manager"
 date: 2024-01-15
 draft: true
 tags: ["javascript", "react", "web-development"]

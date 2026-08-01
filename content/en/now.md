@@ -1,5 +1,6 @@
 ---
 title: "What I'm Doing Now"
+translationKey: "now"
 url: "/en/now/"
 summary: "A snapshot of what I'm currently focused on."
 ---

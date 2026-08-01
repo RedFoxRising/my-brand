@@ -1,5 +1,6 @@
 ---
 title: "Aplicación web de gestión de tareas"
+translationKey: "task-manager"
 date: 2024-01-15
 draft: true
 tags: ["javascript", "react", "desarrollo-web"]

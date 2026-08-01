@@ -1,5 +1,6 @@
 ---
 title: "Qué hace que una entrada técnica de blog sea sólida"
+translationKey: "what-makes-strong-technical-post"
 date: 2024-03-10
 draft: true
 tags: ["escritura", "carrera", "aprender-en-público"]

@@ -1,5 +1,6 @@
 ---
 title: "Weather CLI Tool"
+translationKey: "weather-cli"
 date: 2024-02-20
 draft: true
 tags: ["python", "cli", "api"]

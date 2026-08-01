@@ -1,5 +1,6 @@
 ---
 title: "Sobre mí"
+translationKey: "about"
 url: "/es/about/"
 summary: "Conoce más sobre mi trayectoria, intereses y en qué estoy trabajando."
 ---

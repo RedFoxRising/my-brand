@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+translationKey: "projects"
 summary: "A collection of things I've built and problems I've solved."
 ---
 

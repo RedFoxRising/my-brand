@@ -1,5 +1,6 @@
 ---
 title: "Cómo escribir sobre un proyecto (aunque sea pequeño)"
+translationKey: "how-to-write-about-projects"
 date: 2024-03-15
 draft: true
 tags: ["carrera", "portafolio", "escritura"]

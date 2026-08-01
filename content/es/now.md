@@ -1,5 +1,6 @@
 ---
 title: "Lo que estoy haciendo ahora"
+translationKey: "now"
 url: "/es/now/"
 summary: "Una instantánea de en qué estoy enfocado actualmente."
 ---

@@ -1,3 +1,4 @@
 ---
 title: "Inicio"
+translationKey: "home"
 ---

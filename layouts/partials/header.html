@@ -58,7 +58,17 @@
                 {{- if (not site.Params.disableLangToggle) }}
                     {{- $lang := .Lang}}
                     {{- $separator := or $label_text (not site.Params.disableThemeToggle)}}
-                    {{- with site.Home.Translations }}
+
+                    {{- /* Link to the equivalent page in the other language instead of always
+                           going home (PaperMod's default uses site.Home.Translations).
+                           Falls back to the other language's home when this page has no
+                           translation, so the switcher never renders a dead link. */ -}}
+                    {{- $translations := site.Home.Translations -}}
+                    {{- with .Translations -}}
+                      {{- $translations = . -}}
+                    {{- end -}}
+
+                    {{- with $translations }}
                     <ul class="lang-switch">
                         {{- if $separator }}<li>|</li>{{ end }}
                         {{- range . -}}

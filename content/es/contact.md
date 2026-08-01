@@ -1,5 +1,6 @@
 ---
 title: "Contacto"
+translationKey: "contact"
 url: "/es/contact/"
 summary: "¡Conectemos! No dudes en escribirme para proyectos, prácticas profesionales o simplemente para charlar sobre economía y datos."
 ---

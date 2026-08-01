@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+translationKey: "contact"
 url: "/en/contact/"
 summary: "Get in touch with me."
 ---

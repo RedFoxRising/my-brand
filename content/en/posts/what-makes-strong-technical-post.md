@@ -1,5 +1,6 @@
 ---
 title: "What Makes a Strong Technical Blog Post"
+translationKey: "what-makes-strong-technical-post"
 date: 2024-03-10
 draft: true
 tags: ["writing", "career", "learning-in-public"]

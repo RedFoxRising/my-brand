@@ -26,3 +26,7 @@ node_modules/
 
 # Temporary files
 *.log
+
+.Rhistory
+.RData
+.Rproj.user/

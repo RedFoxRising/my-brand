@@ -1,5 +1,6 @@
 ---
 title: "Proyectos"
+translationKey: "projects"
 summary: "Una colección de cosas que he construido y problemas que he resuelto."
 ---
 
