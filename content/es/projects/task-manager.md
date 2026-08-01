@@ -1,7 +1,7 @@
 ---
 title: "Aplicación web de gestión de tareas"
 date: 2024-01-15
-draft: false
+draft: true
 tags: ["javascript", "react", "desarrollo-web"]
 summary: "Una aplicación full-stack de gestión de tareas con autenticación de usuarios y actualizaciones en tiempo real."
 ---

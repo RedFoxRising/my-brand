@@ -1,7 +1,7 @@
 ---
 title: "Qué hace que una entrada técnica de blog sea sólida"
 date: 2024-03-10
-draft: false
+draft: true
 tags: ["escritura", "carrera", "aprender-en-público"]
 summary: "Una guía para escribir publicaciones técnicas que demuestren tu pensamiento, ayuden a otros y construyan tu marca profesional."
 ---

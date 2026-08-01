@@ -1,7 +1,7 @@
 ---
 title: "Cómo escribir sobre un proyecto (aunque sea pequeño)"
 date: 2024-03-15
-draft: false
+draft: true
 tags: ["carrera", "portafolio", "escritura"]
 summary: "Una guía práctica para documentar tus proyectos de manera que demuestre habilidades y atraiga oportunidades, sin importar lo simple que sea el proyecto."
 ---

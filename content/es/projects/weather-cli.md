@@ -1,7 +1,7 @@
 ---
 title: "Herramienta CLI del clima"
 date: 2024-02-20
-draft: false
+draft: true
 tags: ["python", "cli", "api"]
 summary: "Una herramienta de línea de comandos para consultar pronósticos del clima con una interfaz limpia y colorida."
 ---
