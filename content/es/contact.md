@@ -1,10 +1,6 @@
 ---
 title: "Contacto"
 url: "/es/contact/"
-summary: "Ponte en contacto conmigo."
----
-title: "Contacto"
-url: "/es/contacto/"
 summary: "¡Conectemos! No dudes en escribirme para proyectos, prácticas profesionales o simplemente para charlar sobre economía y datos."
 ---
 
@@ -41,4 +37,4 @@ Si estás en la zona de Bogotá/La Calera o estudias en la Universidad de los An
 
 ---
 
-*Nota: Por favor, sé específico en tu mensaje. ¡Entre más contexto me des, mejor pod
+*Nota: Por favor, sé específico en tu mensaje. ¡Entre más contexto me des, mejor podré responderte!*
