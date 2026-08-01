@@ -5,7 +5,7 @@
 # ⚠️ CHANGE THIS: Update to your GitHub Pages URL
 # For username.github.io repos: baseURL = "https://username.github.io/"
 # For project repos: baseURL = "https://username.github.io/repo-name/"
-baseURL = "https://www.mauroguerrero.com/"
+baseURL = "https://mauroguerrero.com/"
 
 # ⚠️ CHANGE THIS: Update with your name
 title = "Mauricio Guerrero - Personal Site"
@@ -21,8 +21,8 @@ defaultContentLanguageInSubdir = true  # This fixes multilingual URL routing wit
 # --------------------------------
 [languages]
   [languages.en]
-    languageCode = "en-us"
-    languageName = "English"
+    locale = "en-us"
+    label = "English"
     weight = 1
     # ⚠️ CHANGE THIS: Update with your name
     title = "Mauricio Guerrero - Personal Site"
@@ -55,7 +55,7 @@ Economics student at Universidad de Los Andes focusing on quantitative analysis 
 
     [[languages.en.params.socialIcons]]
       name = "email"
-      url = "mailto:am.guerreroa@uniandes.com"
+      url = "mailto:am.guerreroa@uniandes.edu.co"
 
     [[languages.en.params.socialIcons]]
       name = "rss"
@@ -96,8 +96,8 @@ Economics student at Universidad de Los Andes focusing on quantitative analysis 
 # 🌐 LANGUAGE: SPANISH (OPTIONAL) 🌐
 # --------------------------------
   [languages.es]
-    languageCode = "es"
-    languageName = "Español"
+    locale = "es"
+    label = "Español"
     weight = 2
     # ⚠️ CHANGE THIS: Update with your name
     title = "Mauricio Guerrero - Sitio Personal"
@@ -111,7 +111,7 @@ Economics student at Universidad de Los Andes focusing on quantitative analysis 
 
       [languages.es.params.homeInfoParams]
         # ⚠️ CHANGE THIS: Update with your name
-        Title = "Hola, Andres Mauricio Guerrero Avila 👋"
+        Title = "Hola, soy Andres Mauricio Guerrero Avila 👋"
         # ⚠️ CHANGE THIS: Update with your own introduction
         Content = """
 Estudiante de Economía en la Universidad de los Andes con enfoque en el análisis cuantitativo y el emprendimiento.
