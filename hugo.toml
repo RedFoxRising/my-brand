@@ -17,6 +17,15 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true  # This fixes multilingual URL routing with path-based baseURLs
 
 # --------------------------------
+# ⚙️ THEME PARAMS (ALL LANGUAGES) ⚙️
+# --------------------------------
+# Root-level params apply to every language; each language can override them
+# in its own [languages.xx.params] block.
+[params]
+  ShowReadingTime = true
+  ShowCodeCopyButtons = true
+
+# --------------------------------
 # 🌐 LANGUAGE: ENGLISH 🌐
 # --------------------------------
 [languages]
