@@ -1,0 +1,6 @@
+{{- /* PaperMod's head.html emits a fixed set of icon tags (configured in hugo.toml
+       under [params.assets]) but has no hook for the SVG icon or the web app
+       manifest. This is the theme's supported extension point, so both are added
+       here rather than by overriding head.html. */ -}}
+<link rel="icon" type="image/svg+xml" href="{{ "favicon.svg" | absURL }}">
+<link rel="manifest" href="{{ "site.webmanifest" | absURL }}">

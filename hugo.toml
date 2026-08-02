@@ -31,6 +31,16 @@ defaultContentLanguageInSubdir = true  # This fixes multilingual URL routing wit
   [params.label]
     text = "Mauricio Guerrero"
 
+  # Point PaperMod's fixed icon tags at the files that actually exist in static/.
+  # The generated set uses a single 96x96 PNG instead of separate 16x16 / 32x32.
+  [params.assets]
+    favicon = "/favicon.ico"
+    favicon16x16 = "/favicon-96x96.png"
+    favicon32x32 = "/favicon-96x96.png"
+    apple_touch_icon = "/apple-touch-icon.png"
+    theme_color = "#16181B"
+    msapplication_TileColor = "#16181B"
+
 # --------------------------------
 # 🌐 LANGUAGE: ENGLISH 🌐
 # --------------------------------
