@@ -26,6 +26,11 @@ defaultContentLanguageInSubdir = true  # This fixes multilingual URL routing wit
   ShowCodeCopyButtons = true
   displayFullLangName = true
 
+  # Header logo text only. The full site title (used in <title>, RSS and SEO)
+  # stays as configured per language below.
+  [params.label]
+    text = "Mauricio Guerrero"
+
 # --------------------------------
 # 🌐 LANGUAGE: ENGLISH 🌐
 # --------------------------------
@@ -52,6 +57,8 @@ defaultContentLanguageInSubdir = true  # This fixes multilingual URL routing wit
 Economics student at Universidad de Los Andes focusing on quantitative analysis and entrepreneurship.
 
 **Currently:** Applying econometric analysis and programming (Python, R, STATA) to solve strategic problems.
+
+[Download my CV (PDF)](/cv/mauricio-guerrero-cv-en.pdf)
 """
 
     # ⚠️ CHANGE THESE: Update with your own social links
@@ -127,6 +134,8 @@ Economics student at Universidad de Los Andes focusing on quantitative analysis 
 Estudiante de Economía en la Universidad de los Andes con enfoque en el análisis cuantitativo y el emprendimiento.
 
 **Actualmente:** Aplicando análisis econométrico y programación (Python, R, STATA) para resolver problemas estratégicos.
+
+[Descargar mi CV (PDF)](/cv/mauricio-guerrero-cv-es.pdf)
 """
 
     # ⚠️ CHANGE THESE: Update with your own social links
