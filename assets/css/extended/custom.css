@@ -84,7 +84,9 @@ code, pre, kbd {
 }
 
 /* Clase para resaltar una cifra concreta dentro del texto.
-   Uso en Markdown: <span class="fig">0.55%</span>
+   Uso en Markdown: {{< fig >}}0.55%{{< /fig >}}
+   Va por shortcode (layouts/shortcodes/fig.html) porque el HTML crudo
+   se descarta con la config por defecto de Goldmark.
    Reservarla para el número que importa, no para todos. */
 .fig {
   color: var(--accent);

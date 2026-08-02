@@ -1,0 +1,5 @@
+{{- /* Resalta una cifra concreta dentro del texto.
+       Uso: {{< fig >}}0.55%{{< /fig >}}
+       Existe como shortcode porque markup.goldmark.renderer.unsafe está en
+       false, así que un <span> escrito directo en Markdown se descarta. */ -}}
+<span class="fig">{{ .Inner }}</span>{{- "" -}}

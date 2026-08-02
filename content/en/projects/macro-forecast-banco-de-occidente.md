@@ -139,7 +139,7 @@ The practical consequence is that these should not share a method. Statistical f
 
 ### What a backtest cannot tell you
 
-My walk-forward validation put the policy rate at a 2.18% mean error — second lowest of the ten variables. The realized error was 8.89%. That gap is the most useful thing I took away from this project.
+My walk-forward validation put the policy rate at a {{< fig >}}2.18%{{< /fig >}} mean error — second lowest of the ten variables. The realized error was {{< fig >}}8.89%{{< /fig >}}. That gap is the most useful thing I took away from this project.
 
 The validation window ran from April 2024 to March 2026. In those 24 months, BanRep moved gradually and predictably, so the heuristic tracked it well. The backtest was not wrong; it was answering a narrower question than I thought it was. A low mean error can mean the model is good, or it can mean the window contained nothing hard — and the output looks identical either way.
 
