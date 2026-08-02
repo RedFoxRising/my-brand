@@ -1,0 +1,92 @@
+/* Paleta: tinta dominante, ámbar reservado para datos.
+   Va en assets/css/extended/custom.css — PaperMod carga
+   automáticamente cualquier .css en esa carpeta, después
+   del CSS del tema. No requiere override de themes/. */
+
+:root {
+  --theme: #F2F2EF;
+  --entry: #FFFFFF;
+  --primary: #16181B;
+  --secondary: #5C6166;
+  --tertiary: #E3E3DF;
+  --content: #24272B;
+  --border: #E3E3DF;
+  --code-bg: #EDEDEA;
+  --code-block-bg: #16181B;
+  --accent: #B57614;
+}
+
+/* El tema conmuta con un atributo en <html>, no con una clase:
+   <html data-theme="dark">. Un selector .dark no coincidiría nunca. */
+:root[data-theme="dark"] {
+  --theme: #16181B;
+  --entry: #1D2024;
+  --primary: #F2F2EF;
+  --secondary: #9AA0A6;
+  --tertiary: #2A2E33;
+  --content: #D8DAD8;
+  --border: #2A2E33;
+  --code-bg: #22262A;
+  --code-block-bg: #1D2024;
+  --accent: #D99A2B;
+}
+
+/* Cifras alineadas en columna. El detalle que más se nota
+   en tablas de datos y el que menos cuesta. */
+table,
+.post-content table th,
+.post-content table td,
+code, pre, kbd {
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+/* Enlaces: tinta con subrayado, ámbar solo al pasar el cursor.
+   El acento aparece por interacción, no por defecto.
+   box-shadow: none anula el subrayado falso del tema
+   (.post-content a { box-shadow: 0 1px 0 }).
+   Incluye .entry-content porque la home y los resúmenes de los
+   listados usan esa clase, no .post-content. */
+.post-content a,
+.entry-content a {
+  color: var(--primary);
+  text-decoration: underline;
+  text-decoration-color: var(--tertiary);
+  text-underline-offset: 3px;
+  box-shadow: none;
+}
+
+.post-content a:hover,
+.entry-content a:hover {
+  color: var(--accent);
+  text-decoration-color: var(--accent);
+  box-shadow: none;
+}
+
+/* Ítem activo del menú.
+   El tema lo estiliza con #menu .active, que por el ID gana a
+   cualquier selector de clase. Hay que igualar el ID para poder
+   sobrescribirlo. */
+#menu .active {
+  border-bottom: 2px solid var(--accent);
+}
+
+/* Citas: filo ámbar en vez de barra gris */
+.post-content blockquote {
+  border-inline-start: 2px solid var(--accent);
+}
+
+/* Tablas: reglas finas, estilo de boletín.
+   El :not(...) replica el del tema para no tocar las tablas que
+   genera el resaltador de código, que sí deben quedar sin bordes. */
+.post-content table th,
+.post-content table:not(.highlighttable, .highlight table, .gist .highlight) td {
+  border-bottom: 1px solid var(--border);
+}
+
+/* Clase para resaltar una cifra concreta dentro del texto.
+   Uso en Markdown: <span class="fig">0.55%</span>
+   Reservarla para el número que importa, no para todos. */
+.fig {
+  color: var(--accent);
+  font-variant-numeric: tabular-nums lining-nums;
+}
