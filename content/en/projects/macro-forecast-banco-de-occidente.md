@@ -5,6 +5,10 @@ date: 2026-03-09
 draft: false
 tags: ["python", "econometrics", "time-series", "finance", "colombia"]
 summary: "A full forecasting pipeline for a national macroeconomic tournament: data extraction from 6 official sources, model-per-variable design, and 24-month walk-forward validation."
+cover:
+  image: "images/mfc-cover.png"
+  alt: "Macro Forecasting Challenge tournament graphic: a wireframe bull over a rising chart line and bar chart, on a blue background"
+  hiddenInSingle: true
 ---
 
 ## Overview

@@ -5,6 +5,10 @@ date: 2026-03-09
 draft: false
 tags: ["python", "econometría", "series-de-tiempo", "finanzas", "colombia"]
 summary: "Un pipeline completo de pronóstico para un torneo macroeconómico nacional: extracción de datos de 6 fuentes oficiales, un modelo por variable y validación walk-forward de 24 meses."
+cover:
+  image: "images/mfc-cover.png"
+  alt: "Gráfico del torneo Macro Forecasting Challenge: un toro de estructura alámbrica sobre una línea de tendencia ascendente y un gráfico de barras, en fondo azul"
+  hiddenInSingle: true
 ---
 
 ## Descripción general
