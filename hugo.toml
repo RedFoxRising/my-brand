@@ -26,6 +26,10 @@ defaultContentLanguageInSubdir = true  # This fixes multilingual URL routing wit
   ShowCodeCopyButtons = true
   displayFullLangName = true
 
+  # Sections listed on the home page. Without this Hugo picks the single
+  # section with the most pages, which left projects out.
+  mainSections = ["posts", "projects"]
+
   # Header logo text only. The full site title (used in <title>, RSS and SEO)
   # stays as configured per language below.
   [params.label]

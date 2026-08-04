@@ -3,6 +3,7 @@ title: "Pronosticar el futuro: mi estrategia para el Macro Challenge de Banco de
 translationKey: "macro-forecasting-challenge"
 date: 2026-02-21
 draft: false
+hiddenInHomeList: true
 summary: "Cómo construí un pipeline completo de pronóstico macroeconómico — desde los datos crudos de la API hasta el backtesting walk-forward — para competir en un torneo universitario nacional."
 tags: ["Econometría", "Pronósticos", "Análisis de Datos", "Python", "Finanzas", "Colombia"]
 ---

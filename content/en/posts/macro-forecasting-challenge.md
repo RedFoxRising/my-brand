@@ -3,6 +3,7 @@ title: "Forecasting the Future: My Strategy for the Banco de Occidente Macro Cha
 translationKey: "macro-forecasting-challenge"
 date: 2026-02-21
 draft: false
+hiddenInHomeList: true
 summary: "How I built a full macroeconomic forecasting pipeline — from raw API data to walk-forward backtesting — to compete in a national university tournament."
 tags: ["Econometrics", "Forecasting", "Data Analysis", "Python", "Finance", "Colombia"]
 ---
