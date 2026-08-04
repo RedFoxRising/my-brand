@@ -4,4 +4,4 @@ translationKey: "projects"
 summary: "Una colección de cosas que he construido y problemas que he resuelto."
 ---
 
-Aquí hay algunos proyectos en los que he trabajado. Cada uno me enseñó algo nuevo y me ayudó a crecer como economista. 
+Cada proyecto documenta el problema, los datos, el método, la validación y el resultado.

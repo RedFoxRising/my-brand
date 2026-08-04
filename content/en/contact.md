@@ -7,34 +7,19 @@ summary: "Get in touch with me."
 
 ## Let's Connect
 
-I'm always happy to chat about economics, data projects, consulting opportunities, or just to connect with fellow economics students and professionals.
+I'm open to conversations about quantitative roles in fintech and financial markets, collaborations on econometric or forecasting work, and questions about any project on this site. Email or LinkedIn are the fastest ways to reach me. If you're in Bogotá, happy to grab a coffee.
 
 ### Best Ways to Reach Me
 
-**Email:** [am.guerreroa@uniandes.edu.co](mailto:am.guerreroa@uniandes.edu.co)  
-*Best for: Internship/job inquiries, collaboration opportunities, or detailed questions.*
+**Email:** [am.guerreroa@uniandes.edu.co](mailto:am.guerreroa@uniandes.edu.co)
 
-**LinkedIn:** [linkedin.com/in/andresmauricioguerrero](https://www.linkedin.com/in/andresmauricioguerrero/)  
-*Best for: Professional networking, consulting discussions, and staying connected.*
+**LinkedIn:** [linkedin.com/in/andresmauricioguerrero](https://www.linkedin.com/in/andresmauricioguerrero/)
 
-**GitHub:** [github.com/RedFoxRising](https://github.com/RedFoxRising)  
-*Best for: Reviewing my code, econometric models, and data analysis projects.*
-
-### What I'm Interested In
-
-- **Internship opportunities** in economic consulting, data analysis, financial strategy, or related fields.
-- **Project collaborations** involving econometric modeling, price forecasting, or Python/R/STATA.
-- **Strategic challenges** like consulting case competitions, hackathons, or research groups.
-- **Mentorship** from experienced professionals in finance, consulting, and tech.
-- **Casual conversations** about economics, business strategy, or even futsal and sports!
+**GitHub:** [github.com/RedFoxRising](https://github.com/RedFoxRising)
 
 ### Response Time
 
 I typically respond within 24-48 hours. If you don't hear back, feel free to send a follow-up!
-
-### Coffee Chats
-
-If you're in the Bogotá/La Calera area or attending Universidad de los Andes, I'm always up for a coffee chat to discuss projects, career advice, or just to meet new people working on interesting problems.
 
 ---
 
